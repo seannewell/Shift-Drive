@@ -1,5 +1,5 @@
 # Shift Drive
-This is a saturation vst plugin with the option to blend together different distortion algorithms and alter the phase
+This is a saturation .vst plugin with the option to blend together different distortion algorithms and alter the phase
 relationship between them.
 
 ## About
