@@ -8,7 +8,6 @@ create a completely new sound. With five different clipping algorithms alone, th
 curves. However, with the addition of the phase and feedback sliders, the user can get even more sounds out of the plugin.
 
 
-Alt-H2
 ------
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=peJlR0TxfeQ
 " target="_blank"><img src="http://img.youtube.com/vi/peJlR0TxfeQ/0.jpg" 
