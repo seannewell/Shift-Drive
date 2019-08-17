@@ -15,7 +15,7 @@ curves. However, with the addition of the phase and feedback sliders, the user c
 alt="Shift Drive Video" width="240" height="180" border="10" /></a>
 
 
-## Intstructions
+## Instructions
 To use The Shift Drive, simply follow these instructions:
 1. Click the "Clone or Download" button
 2. Press "Download ZIP"
