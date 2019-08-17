@@ -1,6 +1,6 @@
 # Shift Drive
 This is a saturation .vst plugin with the option to blend together different distortion algorithms and alter the phase
-relationship between them.
+relationship between them. This was my submission for the 2019 AES Student Competition: MATLAB Plugin.
 
 ## About
 The Shift Drive was designed to be an extremely versatile saturation effect that could be used to slightly bring out 
