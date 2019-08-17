@@ -24,5 +24,5 @@ To use The Shift Drive, simply follow these instructions:
        your DAW looks for plugins).
     
     
-**This is currently only available in .vst so can only be used in 
+***This is currently only available in .vst so can only be used in 
 DAWS that support this format!**
