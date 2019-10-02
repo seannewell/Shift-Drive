@@ -6,7 +6,7 @@ relationship between them. This was my submission for the 2019 AES Student Compe
 The Shift Drive was designed to be an extremely versatile saturation effect that could be used to slightly bring out 
 harmonics in a mastering setting, to add more grit to an already distorted signal, or to completely warp a signal to 
 create a completely new sound. With five different clipping algorithms alone, the user can get a multitude of wave shaping
-curves. However, with the addition of the phase and feedback sliders, the user can get even more sounds out of the plugin.
+curves. With the addition of the phase and feedback sliders, the user can get even more sounds out of the plugin.
 ![Block Diagram](Block_Diagram.png)
 
 ## Video Explanation
